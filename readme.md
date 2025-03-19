@@ -2,6 +2,7 @@
 
 ## Usage:
 `python <filename.py> <path to input files>`
+
 [Works on all platforms - Win/Linux/Mac]
 
 ## Input
