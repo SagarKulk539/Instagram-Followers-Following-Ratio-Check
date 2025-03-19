@@ -16,6 +16,6 @@ This is a utility python script that gives below output, based on input data fro
 3. List of accounts/profiles that you do not follow back  
 4. Pending follow requests (outgoing)  
 
-### Note: There is an optional input file named 'cannot_follow_you.txt', which has to be user defined. This should contain a list of accounts/profiles that practically cannot follow you back (eg. celebrities, influencers, meme pages etc)  
-### If this is given as input, then the output of "accounts that don't follow you back" would be more refined !!  
-### [In above file, each profile name has to be on new line]  
+***Note: There is an optional input file named 'cannot_follow_you.txt', which has to be user defined. This should contain a list of accounts/profiles that practically cannot follow you back (eg. celebrities, influencers, meme pages etc)  
+If this is given as input, then the output of "accounts that don't follow you back" would be more refined !!  
+[In above file, each profile name has to be on new line]***
